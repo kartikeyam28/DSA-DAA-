@@ -26,14 +26,6 @@ Welcome to the DSA Questions and Answers collection! This repository is a curate
 
 📚 Strings
 
-💡 How to Use
-
-🚀 Getting Started
-
-📑 Contributing
-
-📜 License
-
 📌 About
 This repository contains a wide range of DSA questions along with optimized solutions in Java (and optionally in Python/C++). Each solution is explained with comments and sometimes step-by-step walkthroughs for clarity. Great for students, developers, and interview prep.
 
